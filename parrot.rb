@@ -2,8 +2,4 @@
 # returns the phrase
 
 def parrot(default = "Pretty bird")
-  if default == " "
-    puts "Squawk!"
-  return
- end
 end
