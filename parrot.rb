@@ -6,4 +6,4 @@ def parrot(default = "Squawk!")
   puts "Pretty bird"
   return
  end
- end
+end
