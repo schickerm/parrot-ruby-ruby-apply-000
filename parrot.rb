@@ -2,4 +2,5 @@
 # returns the phrase
 
 def parrot(default = "Pretty bird")
+  puts "Pretty bird"
 end
