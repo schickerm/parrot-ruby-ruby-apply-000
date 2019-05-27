@@ -3,7 +3,7 @@
 
 def parrot(default = "Squawk!")
   if default == " "
-  puts "Pretty bird"
+    puts "Pretty bird"
   return parrot
  end
 end
