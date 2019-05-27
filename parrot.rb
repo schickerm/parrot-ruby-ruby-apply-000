@@ -1,9 +1,9 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot(default = "Squawk!")
+def parrot(default = "Pretty bird")
   if default == " "
-    puts "Pretty bird"
+    puts "Squawk!"
   return parrot
  end
 end
