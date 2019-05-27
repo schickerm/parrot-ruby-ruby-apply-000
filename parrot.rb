@@ -4,6 +4,6 @@
 def parrot(default = "Pretty bird")
   if default == " "
     puts "Squawk!"
-  return parrot
+  return
  end
 end
